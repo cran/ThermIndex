@@ -1,0 +1,1 @@
+di=function(temp,ur){(temp-(0.55*((1-(0.01*ur))*(temp-14.5))))}
