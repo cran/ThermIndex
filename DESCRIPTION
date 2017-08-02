@@ -1,7 +1,7 @@
 Package: ThermIndex
 Type: Package
 Title: Calculate Thermal Indexes
-Version: 0.1.0
+Version: 0.2.0
 Author: Francisco Jablinski Castelhano/Laboclima - Universidade Federal do Paraná
 Maintainer: Francisco Jablinski Castelhano <fjcastelhano@gmail.com>
 Description: Calculates several thermal comfort indexes using temperature, wind speed and relative humidity values, calculating indexes such as Humidex, windchill, Discomfort Index and others.
@@ -10,6 +10,6 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-07-24 19:49:49 UTC; Chico
+Packaged: 2017-08-02 12:15:04 UTC; Chico
 Repository: CRAN
-Date/Publication: 2017-07-24 22:08:45 UTC
+Date/Publication: 2017-08-02 13:27:17 UTC

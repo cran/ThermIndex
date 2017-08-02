@@ -18,4 +18,4 @@ kntoms(wvkn)
 }
 \examples{
 ##----Converting Wind from Knots to m/s
-kntoms(wvkn=4.5) ----}
+kntoms(wvkn=4)}

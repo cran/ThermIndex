@@ -3,7 +3,7 @@
 \title{Humidex Index for Thermal Comfort
 }
 \description{
-Calculates the Thermal Comfort Index Humidex for a daily or hourly data series, based on the formula purposed by Masterton and Richardson (1979).
+Calculates the Thermal Comfort Index Humidex for daily or hourly data series, based on the formula purposed by Masterton and Richardson (1979).
 }
 \usage{
 humidex(temp,ur)

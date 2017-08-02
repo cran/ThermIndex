@@ -4,7 +4,7 @@
 Discomfort Index
 }
 \description{
-This function consists is designed to calculates the Thermal Discomfort Index for a daily or hourly data series, based on the formula purposed by Thom(1959).
+This function calculates the Thermal Discomfort Index for a daily or hourly data series, based on the formula purposed by Thom(1959).
 Thom's index was created in 1959 at the U.S Weather Bureau in order to precise thermal discomfort levels.
 A chart containing the values and the discomfort level are presented on the link written at See Also section.
 }
